@@ -10,7 +10,7 @@ class Config(Config):
     API_HASH = "f2481f41eeaa0bd6b939c30b690fa42f"
     OWNER_ID = 619947188
     AUTH_CHANNEL = [-499982235]
-    INDEX_LINK = "https://mrwhite.yobitch.workers.dev/0:/Bot%20Upload"
+    INDEX_LINK = "https://deckerstar.mylove.workers.dev/0:/Lucifer%20Morningstar/"
     DESTINATION_FOLDER = "Lucifer Morningstar" #Name of your folder read readme(not id of the folder)
     #Just don't fill RCLONE_CONFIG vars, insted copy your rclone.conf file in root directory
     #if your wanted to fill -- fill your rclone config like this(Your config may have some extra value or less. so Don't worry)
